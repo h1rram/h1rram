@@ -1,5 +1,5 @@
-<h1 align="center">Shed</h1>
-&lt;! Get to know me !>
+<h1 align="center">Hirwa</h1>
+<h3 align="left">Just Do It.</h3>
 
 🔭 I’m currently working on My mind<br>🌱 I’m currently learning Full-Stack<br>💬 Ask me about Anything<br>📫 Contact me via email ramadhanhirwa@gmail.com
 
