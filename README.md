@@ -1,2 +1,2 @@
-# 𝐇𝐢𝐫𝐰𝐚
+# Hirwa
 &lt;! Get to know me !>
