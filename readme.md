@@ -1,6 +1,6 @@
 <h1 align="center">Hirwa</h1>
 
-🔭 I’m currently working on My mind<br>🌱 I’m currently learning Full-Stack<br>💬 Ask me about Anything<br>📫 Contact me via email ramadhanhirwa@gmail.com
+🔭 I’m currently working on my Mind<br>🌱 I’m currently learning Full-Stack<br>💬 Ask me about Anything<br>📫 Contact me via Email: ramadhanhirwa@gmail.com
 
 
 ### Follow Me :
