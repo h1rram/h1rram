@@ -1,5 +1,4 @@
 <h1 align="center">Hirwa</h1>
-> Solving Real-world problems with code. 
 
 🔭 I’m currently learning Full-Stack<br>💬 Ask me about Anything<br>📫 Contact me via Email: ramadhanhirwa@gmail.com
 
